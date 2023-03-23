@@ -1,5 +1,6 @@
 # NGS-group-assignment
 The goal of this assignemtn is to build a workflow in Galaxy to analyze a data set containing several shortreads (forward and reverse) and longreads.
+added file contains the galaxy workfklow. (*.ga file)
 
 
 ## Schematic workflow
