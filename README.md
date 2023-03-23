@@ -3,7 +3,7 @@ The goal of this assignemtn is to build a workflow in Galaxy to analyze a data s
 
 
 ## Schematic workflow
-![image](https://user-images.githubusercontent.com/127868974/227202900-d305cf66-868f-43dd-903e-22692c6978c7.png)
+![image](https://user-images.githubusercontent.com/127868974/227212222-419403fa-e747-438c-aeb0-6e1dedd38ff6.png)
 
 ## LEGEND
 orange = pre-process
