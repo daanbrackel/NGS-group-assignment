@@ -19,3 +19,5 @@ green = quality control tools
 blue = assembly tools
 <br>
 yellow = Data analyzing tool
+<br>
+FastQC output with * is used as input in the multiQC
